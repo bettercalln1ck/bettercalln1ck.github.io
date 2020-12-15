@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Nikhil's Website                          # the main title
+title: n1kolai|blog                         # the main title
 
 tagline: Writeups of CTF's,tryhackme,HTB and blogs about projects   # it will display as the sub-title
 
