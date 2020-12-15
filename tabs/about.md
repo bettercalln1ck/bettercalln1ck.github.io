@@ -8,8 +8,8 @@ title: About
 # MIT License
 ---
 
-## Name: Nikhil Kumar
-## Tryhackme: [Click](https://tryhackme.com/p/bettercalln1ck)
-## Github: [Click](https://github.com/bettercalln1ck)
-## Twitter: [Click](https://twitter.com/bettercalln1ck)
-## Linkedin: [Click](https://www.linkedin.com/in/nikhil-kumar-232b5616b/)
+### Name: Nikhil Kumar
+### Tryhackme: [Click](https://tryhackme.com/p/bettercalln1ck)
+### Github: [Click](https://github.com/bettercalln1ck)
+### Twitter: [Click](https://twitter.com/bettercalln1ck)
+### Linkedin: [Click](https://www.linkedin.com/in/nikhil-kumar-232b5616b/)
